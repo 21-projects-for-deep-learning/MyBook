@@ -9,7 +9,7 @@ Github地址：https://github.com/21-projects-for-deep-learning/MyBook
 #### 本书所有的代码集合 (大约27MB)
 链接: https://pan.baidu.com/s/1C6waPKRlRfQ_Dj8MDatdEg 提取码: eu3k
 
-如果百度网盘不能下载，可以直接下载本项目，其中![Python Code.zip](https://github.com/21-projects-for-deep-learning/MyBook/blob/master/Python%20Code.zip)就是所有的源代码
+如果百度网盘不能下载，可以直接下载本项目，其中[Python Code.zip](https://github.com/21-projects-for-deep-learning/MyBook/blob/master/Python%20Code.zip)就是所有的源代码
 
 
 ### 宋体的字体下载
