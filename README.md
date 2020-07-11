@@ -1,13 +1,15 @@
-# 21个项目学深度学习
-## 书名： 21个项目学深度学习
-## My Book Name: 21 Projects for learning Deep Learning
+# 深度学习训练营 - 21天实战
+## 书名： 深度学习训练营 - 21天实战
+## 基于Tensorflow + Keras + Scikit-learn框架编写而来的21个实战项目
 
 Github地址：https://github.com/21-projects-for-deep-learning/MyBook
 
 ![京东图书：深度学习训练营](https://img13.360buyimg.com/n1/jfs/t1/121507/30/3245/261556/5ecf50a7E51da8c88/9c429e8719022f69.jpg)
 
-#### 本书所有的代码集合
+#### 本书所有的代码集合 (大约27MB)
 链接: https://pan.baidu.com/s/1C6waPKRlRfQ_Dj8MDatdEg 提取码: eu3k
+
+如果百度网盘不能下载，可以直接下载本项目，其中![Python Code.zip](https://github.com/21-projects-for-deep-learning/MyBook/blob/master/Python%20Code.zip)就是所有的源代码
 
 
 ### 宋体的字体下载
